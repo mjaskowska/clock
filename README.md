@@ -2,4 +2,5 @@
 Clock 
 
 This exercise has been published on:
-https://github.com/mjaskowska/clock
+
+https://mjaskowska.github.io/clock/
